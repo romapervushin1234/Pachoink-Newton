@@ -1,0 +1,26 @@
+{
+  "name": "pachoink-newton",
+  "version": "1.0.0",
+  "description": "Pachoink but with Newtonian Gravity",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/romapervushin1234/Pachoink-Newton.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/romapervushin1234/Pachoink-Newton/issues"
+  },
+  "homepage": "https://github.com/romapervushin1234/Pachoink-Newton#readme",
+  "dependencies": {
+    "pixi.js": "^8.19.0",
+    "vite": "^8.0.16"
+  }
+}
